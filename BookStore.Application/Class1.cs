@@ -1,4 +1,4 @@
-﻿ namespace BookStore.Core
+﻿namespace BookStore.Application
 {
     public class Class1
     {
